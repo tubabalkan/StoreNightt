@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace StoreNightt.Application.Feature.CQRS.Commands.CategoryCommands
 {
 	public class CreateCategoryCommands
-	{
+	{ 
 	
 		public string CtegoryName { get; set; }
 	}
